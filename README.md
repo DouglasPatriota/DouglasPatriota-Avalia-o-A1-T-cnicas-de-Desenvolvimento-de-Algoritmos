@@ -15,27 +15,17 @@ O projeto está dividido em pastas temáticas que correspondem aos principais co
 ### 1. Estruturas Condicionais
 * **Localização:** `Estruturas de Condicionais/`
 * **O que contém:** Contém **12 atividades** em Python que exploram o uso correto das estruturas de decisão **`if`, `elif` e `else`**. Os scripts demonstram lógicas de tomada de decisão, como cálculo de módulo, verificação de paridade, regras de aprovação e cálculo de tarifas progressivas.
-* [**VER DETALHES DE CADA ARQUIVO**](Estruturas%20de%20Condicionais/README.md)
 
 ### 2. Estruturas de Repetição
 * **Localização:** `Estruturas de Repetição/`
 * **O que contém:** Solução para a tarefa de desenvolver um **contador de 1 a 100, exibindo apenas números pares**. Foram utilizadas as duas principais estruturas de repetição: o laço **`for`** e o laço **`while`**.
-* [**VER DETALHES DE CADA ARQUIVO**](Estruturas%20de%20Repetição/README.md)
 
 ### 3. Listas
 * **Localização:** `Listas/`
 * **O que contém:** O arquivo `listas_alunos.py` implementa um programa para **cadastro dinâmico de nomes de alunos** em uma lista. Demonstra o uso da função `append()` e a impressão dos elementos ao final do processo.
-* [**VER DETALHES DE CADA ARQUIVO**](Listas/README.md)
 
 ### 4. Dicionários
 * **Localização:** `Dicionários/`
-* **O que contém:** Este tópico está **Pendente de implementação**. O arquivo final será a solução para o sistema de cadastro de produtos que utiliza a estrutura de dados `dict()`.
+* **O que contém:** O arquivo final será a solução para o sistema de cadastro de produtos que utiliza a estrutura de dados `dict()`.
 
 ---
-
-## 🛠 Critérios de Entrega (GitHub)
-
-O projeto cumpre o critério de entrega no GitHub, apresentando:
-* Organização clara dos arquivos por tópicos.
-* Versionamento completo utilizando comandos Git.
-* Este `README.md` principal, com explicações detalhadas sobre o conteúdo de cada pasta.
